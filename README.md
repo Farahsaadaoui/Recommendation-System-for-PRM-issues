@@ -1,1 +1,4 @@
-# Recommendation-System-for-PRM-issues[rapport (1).pdf](https://github.com/Farahsaadaoui/Recommendation-System-for-PRM-issues/files/13633017/rapport.1.pdf)
+# Recommendation-System-for-PRM-issues
+This project aims to develop a recommendation system for PRM
+(Personalized Recommendation Model) issues using an Ontology Learning (OL) approach. The system utilizes conceptual graphs to enhance the
+recommendation process
